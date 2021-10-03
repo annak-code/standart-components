@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="lyD-RB-glQ">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Task2-->
+        <scene sceneID="MlQ-xK-k7e">
+            <objects>
+                <viewController storyboardIdentifier="Task2" id="lyD-RB-glQ" customClass="Task2ViewController" customModule="ShopModule8" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Cnb-Cb-Xbk">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" indicatorStyle="black" translatesAutoresizingMaskIntoConstraints="NO" id="NZ5-MA-AeY">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                            </scrollView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="mRT-k2-7ub"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="top" secondItem="mRT-k2-7ub" secondAttribute="top" priority="250" id="LYN-dr-OGi"/>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="leading" secondItem="mRT-k2-7ub" secondAttribute="leading" id="N1n-LF-DmK"/>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="trailing" secondItem="mRT-k2-7ub" secondAttribute="trailing" id="WuS-AC-Qmk"/>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="height" secondItem="mRT-k2-7ub" secondAttribute="height" id="gcT-1d-M7N"/>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="width" secondItem="mRT-k2-7ub" secondAttribute="width" id="lJA-8i-sbO"/>
+                            <constraint firstItem="NZ5-MA-AeY" firstAttribute="bottom" secondItem="mRT-k2-7ub" secondAttribute="bottom" id="llb-c1-zlC"/>
+                        </constraints>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Task2" id="quw-ZP-Kch"/>
+                    <connections>
+                        <outlet property="scrollView" destination="NZ5-MA-AeY" id="AZZ-kc-GCc"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QZQ-k1-0nP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-555.07246376811599" y="438.61607142857139"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F188D93-A2F1-40E8-963F-521734BB5BA5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1986F496-EC2F-49D3-84C0-1CCA18E04710"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopModule8/Task1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "previous(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26C38F55-F31C-4E17-9060-ABA78A7AB448"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopModule8/Task1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopModule8/Task2ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Task2ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - f612254ed0838690"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.myarr.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - 84c5a4e5aacd1e84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.myarr.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - ad650108cf1b3f4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.myarr.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - 59d9c4fd881927ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.myarr.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - 50674036222640be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ShopModule8.Task2ViewController"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "90027D69-CB75-4817-9B47-EC8F14A9B1CD - 18a8e83d61d4a7a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopModule8.Task2ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ShopModule8.Task2ViewController&gt;"
+                  moduleName = "ShopModule8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/ShopModule8/ShopModule8/Task2ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD64C04C-4B30-46C9-B37C-8031D8615A40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopModule8/Task1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
